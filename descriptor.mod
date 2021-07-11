@@ -1,6 +1,6 @@
-version="1.3.1"
+version="1.0"
 tags={
-	"Gameplay"
+	"Religion"
 }
 name="Hostage System"
-supported_version="1.3.1"
+supported_version="1.4.4"
